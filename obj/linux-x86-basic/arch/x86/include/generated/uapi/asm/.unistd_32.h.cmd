@@ -1,0 +1,1 @@
+cmd_arch/x86/entry/syscalls/../../include/generated/uapi/asm/unistd_32.h := /bin/bash '/home/loopyd/loopy-kernel/linux-4.9/arch/x86/entry/syscalls/syscallhdr.sh' '/home/loopyd/loopy-kernel/linux-4.9/arch/x86/entry/syscalls/syscall_32.tbl' 'arch/x86/entry/syscalls/../../include/generated/uapi/asm/unistd_32.h' 'i386' '' ''
